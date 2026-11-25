@@ -4,7 +4,7 @@
         <title>Welcome to Alight Motion Mod</title>
         <subtitle>Thoni Project Official</subtitle>
         <text>Selamat datang! Ini adalah halaman khusus Thoni Project. Temukan informasi, update, dan berbagai karya seputar editing serta kreativitas digital. Terus berkarya, eksplorasi fitur, dan jangan berhenti belajar. Terima kasih sudah berkunjung!</text>
-        <img src="thon.png" width="960" height="540" />
+        <img src="thonlogo.gif" width="355" height="200" />
         <button id="thoniproject-youtube" action="view" target="https://youtube.com/@thoniprojectv2?si=3csNipECJShjOwis" label="Subscribe Channel YouTube" />
     </card>
 </feed>
