@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
+
+    <!-- CARD WELCOME PERMANEN -->
+    <card id="thoniproject-welcome" publishDate="2026-11-25">
+        <title>Welcome to Alight Motion Mod</title>
+        <subtitle>Thoni Project Official</subtitle>
+        <text>Selamat datang di Thoni Project!</text>
+        <img src="thon.gif" width="960" height="540" />
+        <button id="thoniproject-youtube"
+            action="view"
+            target="https://youtube.com/@thoniprojectv2"
+            label="Subscribe Channel YouTube" />
+    </card>
+
+    <!-- UPDATE TERBARU -->
     <card id="thoniproject-preset-downloader" publishDate="2026-11-26">
 
         <title>New Feature: Preset Downloader</title>
@@ -18,13 +32,7 @@ Buka menu tersebut, pilih Preset Downloader, lalu jelajahi dan unduh preset yang
 Nikmati pengalaman editing yang lebih praktis bersama Thoni Project!
 
 Thank you for supporting Thoni Project.
-        </text>  
-        </card>
-    <card id="thoniproject-welcome" publishDate="2026-11-25">
-        <title>Welcome to Alight Motion Mod</title>
-        <subtitle>Thoni Project Corporation</subtitle>
-        <text>Selamat datang! Ini adalah halaman khusus Thoni Project. Temukan informasi, update, dan berbagai karya seputar editing serta kreativitas digital. Terus berkarya, eksplorasi fitur, dan jangan berhenti belajar. Terima kasih sudah berkunjung!</text>
-        <img src="thonlogo.gif" width="355" height="200" />
-        <button id="thoniproject-youtube" action="view" target="https://youtube.com/@thoniprojectv2?si=3csNipECJShjOwis" label="Subscribe Channel YouTube" />
+        </text>     
     </card>
+
 </feed>
