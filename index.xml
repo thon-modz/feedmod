@@ -2,16 +2,21 @@
 <feed>
 
     <!-- CARD WELCOME PERMANEN -->
-    <card id="thoniproject-welcome" publishDate="2026-11-25">
-        <title>Welcome to Alight Motion Mod</title>
-        <subtitle>Thoni Project Official</subtitle>
-        <text>Selamat datang di Thoni Project!</text>
-        <img src="thonlogo.gif" width="960" height="540" />
-        <button id="thoniproject-youtube"
-            action="view"
-            target="https://youtube.com/@thoniprojectv2"
-            label="Subscribe Channel YouTube" />
-    </card>
+    <card id="thoniproject-welcome" publishDate="installDate">
+
+    <title>Welcome to Alight Motion Mod</title>
+    <subtitle>Thoni Project Official</subtitle>
+
+    <text>Selamat datang di Thoni Project!</text>
+
+    <img src="thonlogo.gif" width="960" height="540" />
+
+    <button id="thoniproject-youtube"
+        action="view"
+        target="https://youtube.com/@thoniprojectv2"
+        label="Subscribe Channel YouTube" />
+
+</card>
 
     <!-- UPDATE TERBARU -->
     <card id="update-001" publishDate="2026-11-26">
