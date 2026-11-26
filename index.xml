@@ -6,7 +6,7 @@
         <title>Welcome to Alight Motion Mod</title>
         <subtitle>Thoni Project Official</subtitle>
         <text>Selamat datang di Thoni Project!</text>
-        <img src="thon.gif" width="960" height="540" />
+        <img src="thonlogo.gif" width="960" height="540" />
         <button id="thoniproject-youtube"
             action="view"
             target="https://youtube.com/@thoniprojectv2"
